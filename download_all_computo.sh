@@ -2,6 +2,8 @@
 
 # Actas del Cómputo
 
+mkdir -p images/trep
+
 # Actas del exterior de Bolivia, cada 3 segundos
 for i in {1001..2507}
 do
