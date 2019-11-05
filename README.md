@@ -20,6 +20,6 @@ Para descargar las imágenes debe ejecutar uno a uno los scripts de la siguiente
 
 ## Authors
 
-* **Marcelo Quispe Ortega** https://github.com/PurpleBooth
-* **Benjamin Castillo Eguez** https://github.com/benjiCastillo
+* **Marcelo Quispe Ortega** - https://github.com/marceloquispeortega
+* **Benjamin Castillo Eguez** - https://github.com/benjiCastillo
 * **Roger Barja Montellano**
